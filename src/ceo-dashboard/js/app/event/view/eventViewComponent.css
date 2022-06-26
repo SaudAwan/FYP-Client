@@ -1,0 +1,11 @@
+.sponsors-new {
+    background: dodgerblue;
+    color: white;
+}
+
+.event-sub-action-btn {
+    padding: 5px 10px;
+    height: 26px;
+    margin-right: 12px;
+    line-height: 14px;
+}

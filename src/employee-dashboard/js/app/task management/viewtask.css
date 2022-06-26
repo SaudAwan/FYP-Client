@@ -1,0 +1,10 @@
+.sub_task_styles{
+    font-size:16px;
+    color:rgba(0,0,0,0.85)
+}
+#sub_tasks_wrap{
+    margin-top: 15px;
+}
+.ant-comment-inner {
+    padding:0px!important;
+}

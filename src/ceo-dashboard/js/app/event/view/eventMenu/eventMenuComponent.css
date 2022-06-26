@@ -1,0 +1,8 @@
+.app-event-menu-item {
+    margin-bottom: 8px;
+    line-height: 40px;
+}
+
+.app-event-menu-item > div {
+    height: 0px;
+}

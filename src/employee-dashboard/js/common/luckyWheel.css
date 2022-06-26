@@ -1,0 +1,9 @@
+#canvas {
+    height: 575px;
+}
+
+#wheel {
+    width: 430px;
+    overflow: hidden;
+    margin: auto;
+}

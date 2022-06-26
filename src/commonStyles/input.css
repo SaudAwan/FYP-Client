@@ -1,0 +1,38 @@
+.ant-input{
+    background-color: #e6e6e6!important;
+    
+}
+.ant-select-selection__rendered{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    margin-left: 0px!important;
+    padding: 0px 11px;
+    border-radius: 5px;
+}
+.ant-select-selection{
+    background: #e6e6e6!important;
+    border-radius: 5px!important;
+}
+
+.ant-select-selection--multiple {
+    background: #ffffff!important;
+    border-radius: 0!important;
+}
+
+.ant-select{
+    border-radius: 5px!important;
+}
+.ant-form-item-label label{
+    color: #969FB7;
+}
+
+.custom-select {
+    background: #fff!important;
+}
+
+/* .ant-select-status-error {    
+    background-color: #fff;
+    border-color: #ff4d4f !important;
+} */

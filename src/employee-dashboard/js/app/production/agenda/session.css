@@ -1,0 +1,33 @@
+#sessions-body-container .ant-card-bordered .ant-card-body .children-container{
+    display: flex;
+}
+#sessions-body-container .ant-card-bordered .ant-card-body .ant-layout{
+    flex-grow: 1;
+}
+#sessions-body-container .ant-card-bordered .ant-card-body .filtertable-container{
+    flex-grow: 8;
+}
+#sessions-body-container .ant-card-body .ant-layout ul{
+    height: 100%;
+    padding-right: 20px;
+}
+#sessions-body-container .ant-table-thead{
+    background: rgb(2, 102, 255);
+    margin: 0;
+    border-radius: 4px;
+}
+#sessions-body-container .ant-table-body{
+    margin: 0;
+}
+#sessions-body-container .ant-table-thead > tr > th{
+    border: none;
+}
+#sessions-body-container .ant-table-thead > tr > th span{
+    color: white;
+}
+#session .ant-menu-inline .ant-menu-selected::after, .ant-menu-inline .ant-menu-item-selected::after{
+    border: none;
+}
+#sessions-body-container .ant-card-bordered .ant-card-body .filtertable-container {
+    padding-left: 10px;
+}

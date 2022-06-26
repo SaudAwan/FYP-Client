@@ -1,0 +1,20 @@
+.ant-list-bordered .ant-list-item{
+    padding: 8px 11px;
+}
+.ant-list-items{
+    border-top: 1px solid rgb(0,0,0,0.1);
+    border-bottom: 1px solid rgb(0,0,0,0.1);
+}
+.ant-spin-nested-loading{
+    border: none;
+}
+.ant-list-item-meta-title{
+    display: flex;
+}
+.ant-list-item-meta-title p{
+    cursor: pointer;
+}
+.ant-list-item-meta-title p:hover{
+    color: #1890ff;
+    transition: 0.4s;
+}

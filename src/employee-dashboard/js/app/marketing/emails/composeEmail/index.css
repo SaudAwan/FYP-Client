@@ -1,0 +1,38 @@
+.compose-email {
+    height: 480px;
+    width: 750px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background-color: #fff;
+    border: 1px solid #e8e8e8;
+    box-shadow: 0px 8px 4px #000000;
+}
+
+.mimized-box {
+    height: 50px;
+}
+
+#email-title {
+background-color: #fff!important;
+font-weight: bold;
+font-size: 16px;
+}
+
+.compose-email__header {
+    height: 10%;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+.compose-email__header > * {
+    margin-right: 12px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.compose-email__body {
+    height: 83%;
+}

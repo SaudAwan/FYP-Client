@@ -1,0 +1,8 @@
+.viewTeamDrawer .ant-table-thead > tr > th {
+    background: #465DEF;
+    border-bottom: none;
+}
+.viewTeamDrawer .ant-spin-nested-loading{
+    border:1px solid rgb(0,0,0,0.1);
+    border-radius: 5px;
+}

@@ -1,0 +1,31 @@
+#templateFactoryWrapper .ant-layout{
+    border-right:1.5px solid #cccccc;
+}
+#templateFactoryWrapper .ant-menu{
+    border:none;
+    margin-top:10px;
+}
+#templateFactoryWrapper .ant-menu li{
+    color:black;
+}
+#templateFactoryWrapper .menuItem{
+    padding: 0px 10px!important;
+}
+#templateFactoryWrapper .ant-menu-item-group-title{
+    padding: 8px 0px!important;
+}
+#templateFactoryWrapper .logoStyles{
+    height: 13px;
+    width: 13px;
+    margin-left: 7px;
+    margin-right: 3px;
+}
+#templateFactoryWrapper #eMenuItem{
+    padding: 0px!important;
+}
+#templateFactoryWrapper .logoStyles img{
+    margin-left: 7px;
+}
+#templateFactoryWrapper .ant-card-grid{
+    padding:0px
+}

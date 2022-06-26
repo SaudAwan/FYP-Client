@@ -1,0 +1,43 @@
+.customBtnDefault {
+    color:white;
+    background:#465DEF;
+    border:none;
+    border-radius:8px;
+    outline:none;
+    padding:4px 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.customBtnDefault:hover {
+    background:#6073eb;
+    transition: 0.3s;
+}
+.customBtnDefault1 {
+    color:white;
+    background:#465DEF;
+    border:none;
+    border-radius:8px;
+    outline:none;
+    padding:3px 0px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.customBtnDefault1:hover {
+    background:#6073eb;
+    transition: 0.3s;
+}
+.customBtnSecondary {
+    color:#465DEF;
+    background:white;
+    border:1px solid #465DEF;
+    border-radius:8px;
+    outline:none;
+    padding:4px 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.customBtnSecondary:hover{
+    color:#909ae0;
+    border: 1px solid #909ae0;
+    transition: 0.3s;
+}
